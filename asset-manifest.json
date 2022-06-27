@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-redux-project/static/css/main.ebd6ce47.chunk.css",
+    "main.js": "/simple-redux-project/static/js/main.abde7757.chunk.js",
+    "main.js.map": "/simple-redux-project/static/js/main.abde7757.chunk.js.map",
+    "runtime-main.js": "/simple-redux-project/static/js/runtime-main.0d284761.js",
+    "runtime-main.js.map": "/simple-redux-project/static/js/runtime-main.0d284761.js.map",
+    "static/js/2.64ea4e5c.chunk.js": "/simple-redux-project/static/js/2.64ea4e5c.chunk.js",
+    "static/js/2.64ea4e5c.chunk.js.map": "/simple-redux-project/static/js/2.64ea4e5c.chunk.js.map",
+    "index.html": "/simple-redux-project/index.html",
+    "precache-manifest.98b319f877aae75706c9733244db1700.js": "/simple-redux-project/precache-manifest.98b319f877aae75706c9733244db1700.js",
+    "service-worker.js": "/simple-redux-project/service-worker.js",
+    "static/css/main.ebd6ce47.chunk.css.map": "/simple-redux-project/static/css/main.ebd6ce47.chunk.css.map",
+    "static/js/2.64ea4e5c.chunk.js.LICENSE.txt": "/simple-redux-project/static/js/2.64ea4e5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d284761.js",
+    "static/js/2.64ea4e5c.chunk.js",
+    "static/css/main.ebd6ce47.chunk.css",
+    "static/js/main.abde7757.chunk.js"
+  ]
+}
